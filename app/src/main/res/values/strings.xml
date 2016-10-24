@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplictIntent</string>
+    <string name="data">"Enter the url"</string>
+    <string name="browse">"Search"</string>
+</resources>
